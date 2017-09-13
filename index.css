@@ -1,0 +1,332 @@
+body {
+	background: url('img/s1/IMG_2776.JPG') center center fixed no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+}
+h1{
+	margin: 0 auto;
+	font-family: 'Playfair Display', serif;
+}
+p{
+	margin: 0 auto;
+	font-family: 'Open Sans', sans-serif;
+}
+#box{
+	width: 75%;
+	border-radius: 25px;
+    border: 3px solid black;
+    padding: 20px;
+    background-color: rgba(209, 170, 129, 0.8);
+    text-align: center;
+}
+#p2{
+	display: none;
+}
+#p3{
+	display: none;
+}
+//s1 
+@media screen and (min-width: 425px){
+	body {
+		background: url('img/s1/IMG_2781.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 450px){
+	body {
+		background: url('img/s1/IMG_2786.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 475px){
+	body {
+		background: url('img/s1/IMG_2791.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 500px){
+	body {
+		background: url('img/s1/IMG_2796.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s2
+@media screen and (min-width: 525px){
+	body {
+		background: url('img/s2/IMG_2801.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 550px){
+	body {
+		background: url('img/s2/IMG_2806.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 575px){
+	body {
+		background: url('img/s2/IMG_2811.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 600px){
+	body {
+		background: url('img/s2/IMG_2816.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 625px){
+	body {
+		background: url('img/s2/IMG_2821.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s3
+@media screen and (min-width: 650px){
+	body {
+		background: url('img/s3/IMG_2826.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 675px){
+	body {
+		background: url('img/s3/IMG_2831.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 700px){
+	body {
+		background: url('img/s3/IMG_2836.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 725px){
+	body {
+		background: url('img/s3/IMG_2841.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 750px){
+	body {
+		background: url('img/s3/IMG_2846.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s4
+@media screen and (min-width: 775px){
+	body {
+		background: url('img/s4/IMG_2851.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 800px){
+	body {
+		background: url('img/s4/IMG_2856.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+	#p1{
+		display: none;
+	}
+	#p2{
+		display: block;
+	}
+	#box{
+		width: 65%;
+	}
+}
+@media screen and (min-width: 825px){
+	body {
+		background: url('img/s4/IMG_2861.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 850px){
+	body {
+		background: url('img/s4/IMG_2866.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 875px){
+	body {
+		background: url('img/s4/IMG_2871.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s5
+@media screen and (min-width: 900px){
+	body {
+		background: url('img/s5/IMG_2876.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 925px){
+	body {
+		background: url('img/s5/IMG_2881.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 950px){
+	body {
+		background: url('img/s5/IMG_2886.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 975px){
+	body {
+		background: url('img/s5/IMG_2891.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1000px){
+	body {
+		background: url('img/s5/IMG_2896.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s6
+@media screen and (min-width: 1025px){
+	body {
+		background: url('img/s6/IMG_2901.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1050px){
+	body {
+		background: url('img/s6/IMG_2906.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1075px){
+	body {
+		background: url('img/s6/IMG_2911.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1100px){
+	body {
+		background: url('img/s6/IMG_2916.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1125px){
+	body {
+		background: url('img/s6/IMG_2921.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s7
+@media screen and (min-width: 1150px){
+	body {
+		background: url('img/s7/IMG_2926.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1175px){
+	body {
+		background: url('img/s7/IMG_2931.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1200px){
+	body {
+		background: url('img/s7/IMG_2936.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1225px){
+	body {
+		background: url('img/s7/IMG_2941.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1250px){
+	body {
+		background: url('img/s7/IMG_2946.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+//s8
+@media screen and (min-width: 1275){
+	body {
+		background: url('img/s8/IMG_2951.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1300px){
+	body {
+		background: url('img/s8/IMG_2956.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+	#p2{
+		display: none;
+	}
+	#p3{
+		display: block;
+	}
+}
+@media screen and (min-width: 1325px){
+	body {
+		background: url('img/s8/IMG_2961.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1350px){
+	body {
+		background: url('img/s8/IMG_2966.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+@media screen and (min-width: 1375px){
+	body {
+		background: url('img/s8/IMG_2971.JPG') center center fixed no-repeat;
+		background-size: cover;
+	}
+}
+/*
+@media screen and (min-width: 700px){
+	body{
+		background-color: orange;
+	}
+}
+@media screen and (min-width: 800px){
+	body{
+		background-color: yellow;
+	}
+}
+@media screen and (min-width: 900px){
+	body{
+		background-color: green;
+	}
+}
+@media screen and (min-width: 1000px){
+	body{
+		background-color: #96bf33;
+	}
+}
+@media screen and (min-width: 1100px){
+	body{
+		background-color: blue;
+	}
+}
+@media screen and (min-width: 1200px){
+	body{
+		background-color: indigo;
+	}
+}
+@media screen and (min-width: 1300px){
+	body{
+		background-color: violet;
+	}
+}
+@media screen and (min-width: 1400px){
+	body{
+		background-color: white;
+	}
+}
+@media screen and (min-width: 1500px){
+	body{
+		background-color: black;
+	}
+}
+*/
